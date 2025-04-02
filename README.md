@@ -1,4 +1,4 @@
-<h2 align="center">Hello, team! 👋👋 My name is Ala Ajjel,<br> I'm a dedicated and passionate DevSecOps & Full-Stack Engineer.</h2>
+<h2 align="center">Hello, team! 👋👋 My name is Ala Ajjel,<br> I'm a dedicated and passionate Full-Stack & Dev(Sec)Ops Engineer.</h2>
 
 ###
 
@@ -186,6 +186,9 @@
 <div align="center">
   <a href="https://tn.linkedin.com/in/alaa-ajjel-9598b3216" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://alaajjel.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio website logo" />
   </a>
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=alaajjel.dev@gmail.com&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=+216%2050%20607%20125%20%7C%20+1%20438%20367%206990&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
